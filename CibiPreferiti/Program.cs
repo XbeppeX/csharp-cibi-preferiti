@@ -6,8 +6,9 @@ namespace CibiPreferiti
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            string[] cibiPreferiti = { "lasagne", "parmigiana", "pasta norma", "bistecca", "cotolette" };
+            Console.WriteLine(cibiPreferiti.Length);
+
         }
     }
 }

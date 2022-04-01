@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/giusepperusso/Projects/CibiPreferiti/CibiPreferiti/CibiPreferiti.csproj",
+      "projectUniqueName": "/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/CibiPreferiti.csproj",
       "projectName": "CibiPreferiti",
-      "projectPath": "/Users/giusepperusso/Projects/CibiPreferiti/CibiPreferiti/CibiPreferiti.csproj",
+      "projectPath": "/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/CibiPreferiti.csproj",
       "packagesPath": "/Users/giusepperusso/.nuget/packages/",
-      "outputPath": "/Users/giusepperusso/Projects/CibiPreferiti/CibiPreferiti/obj/",
+      "outputPath": "/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/giusepperusso/.config/NuGet/NuGet.Config"
