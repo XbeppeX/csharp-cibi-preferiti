@@ -24,7 +24,7 @@ namespace CibiPreferiti
             //BONUS: cibi preferiti mediani se pari ne stampo 2, se dispari 1
             if (cibiPreferiti.Length  %2 == 0)
             {
-                Console.WriteLine(cibiPreferiti[cibiPreferiti.Length / 2] + " e " + cibiPreferiti[cibiPreferiti.Length / 2 - 1] + " Sono i tuoi cibi mediani preferiti");
+                Console.WriteLine(cibiPreferiti[cibiPreferiti.Length / 2 - 1] + " e " + cibiPreferiti[cibiPreferiti.Length / 2]  + " sono i tuoi cibi mediani preferiti");
             }  else
             {
                 Console.WriteLine(cibiPreferiti[cibiPreferiti.Length / 2] + " è il tuo cibo mediano preferito");

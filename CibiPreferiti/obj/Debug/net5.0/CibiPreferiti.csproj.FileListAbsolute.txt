@@ -1,0 +1,15 @@
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/bin/Debug/net5.0/CibiPreferiti.deps.json
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/bin/Debug/net5.0/CibiPreferiti.runtimeconfig.json
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/bin/Debug/net5.0/CibiPreferiti.runtimeconfig.dev.json
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/bin/Debug/net5.0/CibiPreferiti.dll
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/bin/Debug/net5.0/ref/CibiPreferiti.dll
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/bin/Debug/net5.0/CibiPreferiti.pdb
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.csproj.AssemblyReference.cache
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.AssemblyInfoInputs.cache
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.AssemblyInfo.cs
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.csproj.CoreCompileInputs.cache
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.dll
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/ref/CibiPreferiti.dll
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.pdb
+/Users/giusepperusso/Desktop/Esercizi Generation/csharp-cibi-preferiti/CibiPreferiti/obj/Debug/net5.0/CibiPreferiti.genruntimeconfig.cache
